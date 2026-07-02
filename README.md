@@ -10,6 +10,16 @@ This project analyzes housing market data to identify important trends and patte
 
 ---
 
+## 🌐 Live Demo
+
+- 📖 Primary: Story1
+  https://public.tableau.com/app/profile/kalam.sudheer.akash/viz/Book56_17829672736680/Story1?publish=yes
+
+- 📊 Secondary: Dashboard
+  https://public.tableau.com/app/profile/kalam.sudheer.akash/viz/Book56_17829672736680/Dashboard1?publish=yes
+
+---
+
 
 ## 📸 Dashboard Screenshots
 
@@ -191,15 +201,6 @@ git clone https://github.com/sudheerakash/Housing-Price-Analysis.git
 
 ---
 
-## 🌐 Live Demo
-
-- 📖 Tableau Story:
-  https://public.tableau.com/app/profile/kalam.sudheer.akash/viz/Book56_17829672736680/Story1?publish=yes
-
-- 📊 Tableau Dashboard:
-  https://public.tableau.com/app/profile/kalam.sudheer.akash/viz/Book56_17829672736680/Dashboard1?publish=yes
-
----
 
 ## 📜 License
 
