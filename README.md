@@ -19,19 +19,19 @@ This project analyzes housing market data to identify important trends and patte
 
 ---
 
-### 📊 Distribution of Houses
+### 📊 Distribution of Houses Age By Renovation Status
 
 ![Distribution of Houses](Dewi/Dashboard/Distribution%20of%20houses.png)
 
 ---
 
-### 🏡 House Age Analysis
+### 🏡 House Age Analysis Distribution By No.of Bathrooms,Bedrooms and Floors
 
 ![House Age Analysis](Dewi/Dashboard/House%20age.png)
 
 ---
 
-### 💰 Total Sales Analysis
+### 💰 Total Sales Analysis By Years Since Renovation
 
 ![Total Sales](Dewi/Dashboard/Total%20sales.png)
 
