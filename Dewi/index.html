@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Housing Sales Trend Analysis</title>
+
+<link href="assets/img/favicon.png" rel="icon">
+
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+<link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+<link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+<link href="assets/css/main.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<!-- ================= Header ================= -->
+
+<header id="header" class="header fixed-top">
+
+<div class="container d-flex align-items-center justify-content-between">
+
+<a href="index.html" class="logo">
+
+<h1>Housing Analytics</h1>
+
+</a>
+
+<nav id="navmenu" class="navmenu">
+
+<ul>
+
+<li><a href="#hero" class="active">Home</a></li>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#dashboard">Dashboard</a></li>
+
+<li><a href="#story">Story</a></li>
+
+</ul>
+
+<i class="mobile-nav-toggle bi bi-list"></i>
+
+</nav>
+
+</div>
+
+</header>
+
+<!-- End Header -->
+
+
+
+<!-- ================= Hero Section ================= -->
+
+<section id="hero" class="hero section dark-background">
+
+  <!-- Hero Background Image -->
+  <img src="assets/img/hero-bg.jpg" alt="Housing Background" data-aos="fade-in">
+
+  <div class="container">
+
+    <div class="row justify-content-center">
+
+      <div class="col-lg-10 text-center" data-aos="zoom-in" data-aos-delay="100">
+
+        <h1 class="display-4 fw-bold text-white">
+          VISUALIZING HOUSING SALES TRENDS AND ITS PRICES
+        </h1>
+
+        <p class="text-white fs-5 mt-3">
+          Interactive Tableau Dashboard & Story Analysis using Tableau Public
+        </p>
+
+        <a href="#about" class="btn btn-danger btn-lg mt-4">
+          GET STARTED
+        </a>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+<!-- End Hero -->
+
+<main id="main">
+
+<!-- ================= About ================= -->
+
+<section id="about" class="about section">
+
+<div class="container">
+
+<div class="section-title">
+
+<h2>About</h2>
+
+<p>Housing Sales Trend Analysis</p>
+
+</div>
+
+<div class="row">
+
+<div class="col-lg-6">
+
+<!-- Replace this image -->
+
+<img src="assets/img/about.jpg"
+
+class="img-fluid rounded"
+
+alt="Housing">
+
+</div>
+
+<div class="col-lg-6">
+
+<h3>
+
+Project Overview
+
+</h3>
+
+<p>
+
+The Housing Sales Trend Analysis project is developed using Tableau Public to analyze residential housing data.
+
+The dashboard provides valuable insights into house prices, sales performance, location-based trends, bedroom distribution, and yearly growth using interactive visualizations.
+
+</p>
+
+<ul>
+
+<li>
+
+<i class="bi bi-check-circle-fill"></i>
+
+Interactive Dashboard
+
+</li>
+
+<li>
+
+<i class="bi bi-check-circle-fill"></i>
+
+Location Wise House Analysis
+
+</li>
+
+<li>
+
+<i class="bi bi-check-circle-fill"></i>
+
+Price Distribution
+
+</li>
+
+<li>
+
+<i class="bi bi-check-circle-fill"></i>
+
+Story Based Insights
+
+</li>
+
+<li>
+
+<i class="bi bi-check-circle-fill"></i>
+
+Dynamic Filters
+
+</li>
+
+</ul>
+
+<p>
+
+This project helps users understand housing market trends through rich data visualizations built using Tableau Public.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- End About -->
+
+
+<!-- ================= Dashboard Section ================= -->
+
+<section id="dashboard" class="services section">
+
+<div class="container" data-aos="fade-up">
+
+<div class="section-title">
+
+<h2>Dashboard</h2>
+
+<p>Comprehensive Housing Sales Dashboard</p>
+
+</div>
+
+<div class="row justify-content-center">
+
+<div class="col-lg-12">
+
+<div class="card shadow-lg border-0">
+
+<div class="card-body">
+
+<div class="tableauPlaceholder"
+id="vizDashboard"
+style="position: relative">
+
+<noscript>
+
+<a href="#">
+
+<img alt="Housing Dashboard"
+src="https://public.tableau.com/static/images/Bo/Book56_17829672736680/Dashboard1/1_rss.png"
+style="border:none">
+
+</a>
+
+</noscript>
+
+<object class="tableauViz"
+style="display:none;">
+
+<param name="host_url"
+value="https%3A%2F%2Fpublic.tableau.com%2F"/>
+
+<param name="embed_code_version"
+value="3"/>
+
+<param name="site_root"
+value=""/>
+
+<param name="name"
+value="Book56_17829672736680/Dashboard1"/>
+
+<param name="tabs"
+value="no"/>
+
+<param name="toolbar"
+value="yes"/>
+
+<param name="showVizHome"
+value="no"/>
+
+<param name="language"
+value="en-US"/>
+
+</object>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<script type="text/javascript">
+
+var divElement =
+document.getElementById('vizDashboard');
+
+var vizElement =
+divElement.getElementsByTagName('object')[0];
+
+vizElement.style.width='100%';
+
+vizElement.style.height='900px';
+
+var scriptElement =
+document.createElement('script');
+
+scriptElement.src =
+'https://public.tableau.com/javascripts/api/viz_v1.js';
+
+vizElement.parentNode.insertBefore(scriptElement,vizElement);
+
+</script>
+
+</section>
+
+<!-- ================= Dashboard Description ================= -->
+
+<section class="about section">
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-lg-6">
+
+<h3>Dashboard Highlights</h3>
+
+<p>
+
+The interactive dashboard presents a complete overview of housing sales trends using Tableau Public.
+
+It allows users to explore pricing trends, location-based analysis, house condition, bedrooms, bathrooms, living area and yearly sales.
+
+</p>
+
+<ul>
+
+<li><i class="bi bi-check-circle-fill"></i> Interactive Filters</li>
+
+<li><i class="bi bi-check-circle-fill"></i> House Price Analysis</li>
+
+<li><i class="bi bi-check-circle-fill"></i> Location Wise Sales</li>
+
+<li><i class="bi bi-check-circle-fill"></i> Bedrooms & Bathrooms</li>
+
+<li><i class="bi bi-check-circle-fill"></i> Dynamic Tableau Dashboard</li>
+
+</ul>
+
+</div>
+
+<div class="col-lg-6">
+
+<img src="assets/img/services.jpg"
+
+class="img-fluid rounded shadow"
+
+alt="Dashboard Image">
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- ================= Story Section ================= -->
+
+<section id="story" class="portfolio section">
+
+<div class="container" data-aos="fade-up">
+
+<div class="section-title">
+
+<h2>Story</h2>
+
+<p>Housing Sales Story Analysis</p>
+
+</div>
+
+<div class="row justify-content-center">
+
+<div class="col-lg-12">
+
+<div class="card shadow-lg border-0">
+
+<div class="card-body">
+
+<div class="tableauPlaceholder"
+
+id="vizStory"
+
+style="position:relative;">
+
+<noscript>
+
+<a href="#">
+
+<img alt="Housing Story"
+
+src="https://public.tableau.com/static/images/Bo/Book56_17829672736680/Story1/1_rss.png"
+
+style="border:none">
+
+</a>
+
+</noscript>
+
+<object class="tableauViz"
+
+style="display:none;">
+
+<param name="host_url"
+
+value="https%3A%2F%2Fpublic.tableau.com%2F"/>
+
+<param name="embed_code_version"
+
+value="3"/>
+
+<param name="site_root"
+
+value=""/>
+
+<param name="name"
+
+value="Book56_17829672736680/Story1"/>
+
+<param name="tabs"
+
+value="no"/>
+
+<param name="toolbar"
+
+value="yes"/>
+
+<param name="showVizHome"
+
+value="no"/>
+
+<param name="language"
+
+value="en-US"/>
+
+</object>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<script type="text/javascript">
+
+var divElement =
+
+document.getElementById('vizStory');
+
+var vizElement =
+
+divElement.getElementsByTagName('object')[0];
+
+vizElement.style.width='100%';
+
+vizElement.style.height='900px';
+
+var scriptElement =
+
+document.createElement('script');
+
+scriptElement.src=
+
+'https://public.tableau.com/javascripts/api/viz_v1.js';
+
+vizElement.parentNode.insertBefore(scriptElement,vizElement);
+
+</script>
+
+</section>
+
+<!-- ================= Story Description ================= -->
+
+<section class="about section">
+
+<div class="container">
+
+<div class="row">
+
+<div class="col-lg-6">
+
+<img src="assets/img/services-1.jpg"
+
+class="img-fluid rounded shadow"
+
+alt="Story">
+
+</div>
+
+<div class="col-lg-6">
+
+<h3>Story Insights</h3>
+
+<p>
+
+The Tableau Story presents the complete workflow of the Housing Sales Analysis. It explains how the data was analyzed using different dashboards and visualizations to discover trends, relationships, and business insights.
+
+</p>
+
+<ul>
+
+<li><i class="bi bi-check-circle-fill"></i> Interactive Story Navigation</li>
+
+<li><i class="bi bi-check-circle-fill"></i> Data-driven Insights</li>
+
+<li><i class="bi bi-check-circle-fill"></i> Trend Analysis</li>
+
+<li><i class="bi bi-check-circle-fill"></i> Sales Performance</li>
+
+<li><i class="bi bi-check-circle-fill"></i> Final Business Conclusions</li>
+
+</ul>
+
+<p>
+
+The Story combines multiple dashboard views into a single presentation, making it easier to understand the housing sales data and key findings.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+<!-- ================= Footer ================= -->
+
+<footer id="footer" class="footer">
+
+<div class="container">
+
+<div class="row gy-4">
+
+<div class="col-lg-4">
+
+<h3>Housing Analytics</h3>
+
+<p>
+
+A Tableau Public project developed to visualize housing sales trends,
+
+price distribution, renovation insights, bedrooms, bathrooms and
+
+market analysis using interactive dashboards and stories.
+
+</p>
+
+</div>
+
+<div class="col-lg-2">
+
+<h4>Quick Links</h4>
+
+<ul class="list-unstyled">
+
+<li><a href="#hero">Home</a></li>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#dashboard">Dashboard</a></li>
+
+<li><a href="#story">Story</a></li>
+
+</ul>
+
+</div>
+
+<div class="col-lg-3">
+
+<h4>Project Features</h4>
+
+<ul class="list-unstyled">
+
+<li>Interactive Dashboard</li>
+
+<li>Interactive Story</li>
+
+<li>Housing Analysis</li>
+
+<li>Tableau Public</li>
+
+<li>Bootstrap UI</li>
+
+</ul>
+
+</div>
+
+<div class="col-lg-3">
+
+<h4>Developers</h4>
+
+<p>
+
+<strong>Kalam Sudheer Akash - 23PA1A0597</strong><br>
+<strong>Bonthu Sri Teja - 23PA1A0535</strong><br>
+<strong>Sreesanth Varma Datla - 23PA1A0557</strong><br>
+<strong>Guntupalli Venkata Charan - 23PA1A0582</strong><br>
+<strong>Shaik Mahab Jan - 23PA1A05M2</strong>
+
+<BR>
+
+Housing Sales Trend Analysis
+
+<br>
+
+Using Tableau Public & Flask
+
+</p>
+
+</div>
+
+</div>
+
+<hr>
+
+<div class="text-center">
+
+<p>
+
+© 2026 Housing Analytics |
+
+Designed using Dewi Bootstrap Template
+
+</p>
+
+</div>
+
+</div>
+
+</footer>
+
+<!-- End Footer -->
+
+
+
+<!-- Scroll Top -->
+
+<a href="#"
+
+id="scroll-top"
+
+class="scroll-top d-flex align-items-center justify-content-center">
+
+<i class="bi bi-arrow-up-short"></i>
+
+</a>
+
+
+
+<!-- Preloader -->
+
+<div id="preloader"></div>
+
+
+
+<!-- Vendor JS Files -->
+
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<script src="assets/vendor/aos/aos.js"></script>
+
+<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+
+<script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+
+<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+
+<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+<script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+
+
+
+<!-- Main JS -->
+
+<script src="assets/js/main.js"></script>
+
+
+
+</main>
+
+</body>
+
+</html>
+
+
