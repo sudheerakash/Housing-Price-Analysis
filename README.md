@@ -106,8 +106,6 @@ Interactive Tableau dashboard showing:
 - Sales by Years Since Renovation
 - A Tableau Story presenting insights and conclusions from the analysis.
 
----
-
 ### 📦 Tableau Workbook
 Includes the packaged Tableau workbook (`.twbx`) for easy access.
 
