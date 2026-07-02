@@ -65,15 +65,12 @@ Housing-Price-Analysis/
 │
 ├── Dashboard/
 ├── Dataset/
-├── Sheets/
-├── Story/
 ├── Tableau/
 ├── assets/
 ├── forms/
 ├── index.html
 ├── portfolio-details.html
 ├── service-details.html
-├── starter-page.html
 └── README.md
 ```
 
