@@ -154,9 +154,9 @@ git clone https://github.com/sudheerakash/Housing-Price-Analysis.git
 | Name | Roll Number |
 |------|-------------|
 | Kalam Sudheer Akash | 23PA1A0597 |
-| Bonthu Sri Teja | 23PA1A0535 |
-| Sreesanth Varma Datla | 23PA1A0557 |
 | Guntupalli Venkata Charan | 23PA1A0582 |
+| Sreesanth Varma Datla | 23PA1A0557 |
+| Bonthu Sri Teja | 23PA1A0535 |
 | Shaik Mahab Jan | 23PA1A05M2 |
 
 ---
