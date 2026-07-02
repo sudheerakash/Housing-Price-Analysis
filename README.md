@@ -102,6 +102,13 @@ Includes the packaged Tableau workbook (`.twbx`) for easy access.
 
 ---
 
+## 🎯 Project Outcome
+
+- Successfully analyzed housing market data.
+- Built interactive Tableau dashboards and stories.
+- Developed a responsive website for project presentation.
+- Generated meaningful insights from the dataset.
+
 ## ✨ Key Features
 
 - Interactive Tableau Dashboard
@@ -141,6 +148,13 @@ git clone https://github.com/sudheerakash/Housing-Price-Analysis.git
 
 ---
 
+## 🎯 Project Outcome
+
+- Successfully analyzed housing market data.
+- Built interactive Tableau dashboards and stories.
+- Developed a responsive website for project presentation.
+- Generated meaningful insights from the dataset.
+
 ## 📌 Future Enhancements
 
 - Machine Learning based Price Prediction
@@ -151,6 +165,15 @@ git clone https://github.com/sudheerakash/Housing-Price-Analysis.git
 
 ---
 
+## 📚 Learning Outcomes
+
+- Built interactive dashboards and stories using Tableau.
+- Learned data cleaning and preprocessing.
+- Improved data visualization skills.
+- Developed a responsive website using HTML, CSS and JavaScript.
+- Gained experience with Git and GitHub.
+- Improved teamwork and project documentation.
+
 ## 🙏 Acknowledgements
 
 - Tableau
@@ -160,6 +183,14 @@ git clone https://github.com/sudheerakash/Housing-Price-Analysis.git
 - Vishnu Institute of Technology
 
 ---
+
+## 🌐 Live Demo
+
+- 📖 Tableau Story:
+  https://public.tableau.com/app/profile/kalam.sudheer.akash/viz/Book56_17829672736680/Story1?publish=yes
+
+- 📊 Tableau Dashboard:
+  https://public.tableau.com/app/profile/kalam.sudheer.akash/viz/Book56_17829672736680/Dashboard1?publish=yes
 
 ## 📜 License
 
