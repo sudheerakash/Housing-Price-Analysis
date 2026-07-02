@@ -62,16 +62,21 @@ This project analyzes housing market data to identify important trends and patte
 
 ```
 Housing-Price-Analysis/
+│── README.md
 │
-├── Dashboard/
-├── Dataset/
-├── Tableau/
-├── assets/
-├── forms/
-├── index.html
-├── portfolio-details.html
-├── service-details.html
-└── README.md
+└── Dewi/
+    ├── Dashboard/
+    │   ├── dashboard.png
+    │   ├── Distribution of houses.png
+    │   ├── House age.png
+    │   └── Total sales.png
+    ├── Dataset/
+    ├── Tableau/
+    ├── assets/
+    ├── forms/
+    ├── index.html
+    ├── portfolio-details.html
+    └── service-details.html
 ```
 
 ---
@@ -89,12 +94,8 @@ Interactive Tableau dashboard showing:
 - Basement Area
 - House Age Distribution
 - Sales by Years Since Renovation
+- A Tableau Story presenting insights and conclusions from the analysis.
 
-### 📖 Story
-A Tableau Story presenting insights and conclusions from the analysis.
-
-### 📑 Sheets
-Contains individual Tableau worksheets used to build the dashboard.
 
 ### 📦 Tableau Workbook
 Includes the packaged Tableau workbook (`.twbx`) for easy access.
