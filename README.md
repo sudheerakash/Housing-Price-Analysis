@@ -96,6 +96,7 @@ Interactive Tableau dashboard showing:
 - Sales by Years Since Renovation
 - A Tableau Story presenting insights and conclusions from the analysis.
 
+---
 
 ### 📦 Tableau Workbook
 Includes the packaged Tableau workbook (`.twbx`) for easy access.
@@ -108,6 +109,8 @@ Includes the packaged Tableau workbook (`.twbx`) for easy access.
 - Built interactive Tableau dashboards and stories.
 - Developed a responsive website for project presentation.
 - Generated meaningful insights from the dataset.
+
+---
 
 ## ✨ Key Features
 
@@ -155,6 +158,8 @@ git clone https://github.com/sudheerakash/Housing-Price-Analysis.git
 - Developed a responsive website for project presentation.
 - Generated meaningful insights from the dataset.
 
+---
+
 ## 📌 Future Enhancements
 
 - Machine Learning based Price Prediction
@@ -174,6 +179,8 @@ git clone https://github.com/sudheerakash/Housing-Price-Analysis.git
 - Gained experience with Git and GitHub.
 - Improved teamwork and project documentation.
 
+---
+
 ## 🙏 Acknowledgements
 
 - Tableau
@@ -191,6 +198,8 @@ git clone https://github.com/sudheerakash/Housing-Price-Analysis.git
 
 - 📊 Tableau Dashboard:
   https://public.tableau.com/app/profile/kalam.sudheer.akash/viz/Book56_17829672736680/Dashboard1?publish=yes
+
+---
 
 ## 📜 License
 
